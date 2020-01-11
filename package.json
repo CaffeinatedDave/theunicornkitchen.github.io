@@ -1,21 +1,21 @@
 {
-  "name": "theunskilledhousewife.github.io",
+  "name": "theunicornkitchen.github.io",
   "version": "0.0.1",
-  "description": "Debbie Pearson Webpage",
+  "description": "Unicorn Kitchen",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CaffeinatedDave/theunskilledhousewife.github.io.git"
+    "url": "git+https://github.com/CaffeinatedDave/theunicornkitchen.github.io.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/CaffeinatedDave/theunskilledhousewife.github.io/issues"
+    "url": "https://github.com/CaffeinatedDave/theunicornkitchen.github.io/issues"
   },
-  "homepage": "https://github.com/CaffeinatedDave/theunskilledhousewife.github.io#readme",
+  "homepage": "https://unicorn.kitchen",
   "devDependencies": {
     "gulp": "^3.9.1",
     "gulp-autoprefixer": "^3.1.1",

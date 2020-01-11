@@ -1,10 +1,10 @@
-name: The Unskilled Housewife
-title: The Unskilled Housewife
-url: https://theunskilledhousewife.github.io
+name: The Unicorn Kitchen
+title: The Unicorn Kitchen
+url: https://unicorn.kitchen
 host: 0.0.0.0
 permalink: /:year/:month/:day/:title/
 paginate_path: "/:num/"
-repository: caffeinateddave/theunskilledhousewife.github.io
+repository: caffeinateddave/theunicornkitchen.github.io
 
 paginate: 10
 markdown: kramdown
