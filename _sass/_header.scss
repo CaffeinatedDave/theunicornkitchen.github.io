@@ -81,7 +81,7 @@ header.page {
         width: 100%;
         justify-content: center;
 
-        .sbg-logo-wrap {
+        .logo-wrap {
             height: 360px;
             display: flex;
             align-items: center;
@@ -91,7 +91,7 @@ header.page {
             }
         }
 
-        .sbg-logo {
+        .logo {
             fill: $color-light;
             max-height: 90px;
             display: block;
@@ -166,7 +166,7 @@ header.page {
         .sticky {
             min-height: 70px;
 
-            .sbg-logo-wrap {
+            .logo-wrap {
                 height: 55px;
             }
 
@@ -187,7 +187,7 @@ header.page {
                 max-height: 46px;
             }
 
-            .sbg-logo {
+            .logo {
                 height: 55px;
                 max-width: 280px;
                 margin: 0;
