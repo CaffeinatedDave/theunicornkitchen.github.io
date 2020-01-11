@@ -5,7 +5,7 @@ author:     debbie
 date:       2020-01-11 12:00:00
 summary:    A speedy and simple curry recipe
 category:   Prawn
-tags:       prawn, spicy, healthy, dinner, meal, simple, under 30 minutes
+tags:       prawn, spicy, healthy, cheap, dinner, meal, simple, under 30 minutes
 preptime:   5
 cooktime:   20
 skilllevel: 1
