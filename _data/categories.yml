@@ -15,3 +15,6 @@
 
 - name: Baking
   slug: baking
+
+- name: Prawn
+  slug: prawn
