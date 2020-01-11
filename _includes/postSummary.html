@@ -1,0 +1,47 @@
+<div class="post">
+    <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+
+    {% if post.image and include.fullSummary %}
+    <div class="image" style="background-image: url('/images/{{ post.image }}');">
+        <a href="{{ post.url }}"></a>
+    </div>
+    {% endif %}
+
+    {% if post.summary %}
+    {{ post.summary | markdownify }}
+    {% endif %}
+
+    <div class="cta flex">
+        {% if post.category %}
+        <div class="categories flex-item">
+            <header>Category:</header>
+            {% for data_category in site.data.categories %}
+                {% if data_category.name == post.category %}
+                    <p><a href="/category/{{ data_category.slug }}/">{{ post.category }}</a></p>
+                {% endif %}
+            {% endfor %}
+        </div>
+        {% endif %}
+
+        {% if post.cooktime || post.preptime %}
+        <div class="time flex-item">
+            <header>Time:</header>
+            {% if post.preptime %}
+            <p><strong>{{ post.preptime }}</strong> Minutes Prep</p>
+            {% endif %}
+            {% if post.cooktime %}
+            <p><strong>{{ post.cooktime }}</strong> Minutes Cooking</p>
+            {% endif %}
+        </div>
+        {% endif %}
+
+        {% if post.skilllevel %}
+        <div class="difficulty flex-item">
+            <header>Skill:</header>
+            <p><strong>{{ post.skilllevel }}</strong></p>
+        </div>
+        {% endif %}
+    </div>
+
+
+</div>

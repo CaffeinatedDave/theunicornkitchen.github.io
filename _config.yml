@@ -1,0 +1,42 @@
+name: The Unskilled Housewife
+title: The Unskilled Housewife
+url: https://theunskilledhousewife.github.io
+host: 0.0.0.0
+permalink: /:year/:month/:day/:title/
+paginate_path: "/:num/"
+repository: caffeinateddave/theunskilledhousewife.github.io
+
+paginate: 10
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+
+exclude:
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
+  - gulpfile.js
+  - node_modules
+  - package.json
+  - README.md
+  - Rakefile
+  - spec
+  - vendor
+
+defaults:
+  - scope:
+      type: authors
+    values:
+      layout: author
+      fixedHeader: true
+      image_dir: authors/
+
+collections:
+  authors:
+    output: true
+    permalink: /authors/:name/

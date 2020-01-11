@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+{% include head.html %}
+<body class="{% if page.fixedHeader %}headFixed always{% endif %}">
+ {% include nav.html %}
+ {{ content }}
+
+</body>
+</html>

@@ -1,0 +1,17 @@
+- name: Chicken
+  slug: chicken
+
+- name: Beef
+  slug: beef
+
+- name: Pork
+  slug: pork
+
+- name: Desert
+  slug: desert
+
+- name: Veggie
+  slug: veggie
+
+- name: Baking
+  slug: baking

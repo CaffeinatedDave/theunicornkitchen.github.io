@@ -1,0 +1,27 @@
+<header class="page{% unless page.bio %}{% if page.image %} hasImage" style="background-image: url('/images/{{ page.image }}');{% endif %}{% endunless %}">
+
+    <nav class="sticky">
+
+        <div class="page-title">
+            <a class="sbg-logo-wrap" href="/">
+              <h1>The Unskilled Housewife</h1>
+            </a>
+        </div>
+
+        <div class="page-links">
+            {% assign nav = (site.pages | where: "nav",true | sort: "nav_weight") %}
+            <ul>
+            {% for node in nav %}
+                <li class="{{node.nav_class}}">
+                    {% if page.url == node.url %}
+                        <a href="{{node.url}}" class="btn btn--primary current">{{node.nav_title}}</a>
+                    {% else %}
+                        <a href="{{node.url}}" class="btn btn--primary {{node.nav_class}}">{{node.nav_title}}</a>
+                    {% endif %}
+                </li>
+            {% endfor %}
+            </ul>
+        </div>
+
+    </nav>
+</header>
