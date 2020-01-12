@@ -3,7 +3,7 @@ layout:     post
 title:      Spicy Chicken and Pasta
 author:     debbie
 date:       2020-01-11 12:00:00
-summary:    A different take on Lasagna
+summary:    A quick and healthy meal
 category:   Chicken
 tags:       chicken, salad, pasta cheap, healthy, dinner, meal, under 30 minutes
 preptime:   10
