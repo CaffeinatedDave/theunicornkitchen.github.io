@@ -23,11 +23,11 @@ Place the bananas in a freezer safe container or freezer bag.
 
 Freeze until solid, for at least 2 hours.
 
-Use a food processor or high speed blender and pulse, the banana will start off looking crumbly, make sure you stop and scape down.
+Use a food processor or high speed blender and pulse, the banana will start off looking crumbly, make sure you stop and scrape down.
 
-Switch to blending and the banana will start to look gooey, like a mush. Again stop and scape down.
+Switch to blending and the banana will start to look gooey, like a mush. Again stop and scrape down.
 
-Keep blending and and the mixture will look like oatmeal, again stop and scape down.
+Keep blending and and the mixture will look like oatmeal, again stop and scrape down.
 
 The mixture on this blend will suddenly become a creamy, soft-serve style ice cream mixture. If you want to add any optional extras now would be the time, and then blend for a few more seconds (including if you have not added any extras).
 
