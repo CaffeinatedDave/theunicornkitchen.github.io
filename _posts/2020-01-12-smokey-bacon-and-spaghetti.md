@@ -4,7 +4,7 @@ title:      Smokey Bacon Spaghetti
 author:     debbie
 date:       2020-01-11 12:00:00
 summary:    A smokey spaghetti
-category:   Easy
+category:   Bacon
 tags:       cheap, healthy, dinner, meal, simple, less than 30 minutes, bacon, spaghetti
 preptime:   5
 cooktime:   20

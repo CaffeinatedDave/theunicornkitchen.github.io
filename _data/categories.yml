@@ -7,8 +7,8 @@
 - name: Pork
   slug: pork
 
-- name: Desert
-  slug: desert
+- name: Dessert
+  slug: dessert
 
 - name: Veggie
   slug: veggie
@@ -18,3 +18,9 @@
 
 - name: Prawn
   slug: prawn
+
+- name: Bacon
+  slug: Bacon
+
+- name: Bread Machine
+  slug: bread-machine

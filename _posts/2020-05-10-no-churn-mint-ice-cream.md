@@ -4,8 +4,8 @@ title:      Mint Ice Cream
 author:     Debbie
 date:       2020-01-11 12:00:00
 summary:    An ice cream recipe for if you do not have an ice cream maker
-category:   Ice Cream
-tags:       ice cream, mint
+category:   Dessert
+tags:       dessert, ice cream, mint
 preptime:   8 hours
 cooktime:   0
 skilllevel: 2

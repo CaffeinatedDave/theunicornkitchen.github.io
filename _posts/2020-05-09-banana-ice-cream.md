@@ -4,8 +4,8 @@ title:      Banana Ice Cream
 author:     Debbie
 date:       2020-01-11 12:00:00
 summary:    Simple one ingredient ice cream (unless you want to jazz it up)
-category:   Ice Cream
-tags:       ice cream, healthy, dessert, simple, dairy free, under 30 minutes
+category:   Dessert
+tags:       dessert, ice cream, healthy, dessert, simple, dairy free
 preptime:   120
 cooktime:   0
 skilllevel: 1
