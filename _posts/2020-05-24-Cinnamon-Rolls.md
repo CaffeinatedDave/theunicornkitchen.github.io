@@ -9,7 +9,7 @@ tags:       dessert, cinnamon roll, cinnamon, buns
 preptime:   20 minutes
 cooktime:   35 minutes
 skilllevel: 2
-image:      images/cinnamon-rolls.jpg
+image:      cinnamon-rolls.jpg
 serves:     9
 ingredients:
   - <strong>Dough</strong>
